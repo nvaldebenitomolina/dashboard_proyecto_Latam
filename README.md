@@ -1,13 +1,15 @@
 # Aeropuntual
 
-#Primero correr
-
+## Primero instalar librerias
 pip install -r requirements.txt
 
-#Ambiente
-
+## Ambiente
 source venv/bin/activate
 
-#En local
-
+## En local
 python app.py
+
+## Puedes ver la aplicación en:
+usuario: aeropuntual
+contraseña: proyectolatam
+https://apps-aeropuntual.herokuapp.com/
